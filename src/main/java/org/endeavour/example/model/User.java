@@ -6,6 +6,10 @@ public class User {
 
     private String displayName;
 
+    public User() {
+
+    }
+
     public User(String username, String displayName) {
 
         this.username = username;
