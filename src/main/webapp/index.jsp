@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Simple Jersey JAX-RS Web-app</h2>
+<h2>Test API</h2>
 <p>The following APIs exist:</p>
 <p><pre>GET /api/fhir/{type}/{id}</pre></p>
 <p><a href="/api/fhir/Patient/1">/api/fhir/Patient/1</a>
